@@ -7,6 +7,8 @@ import useUserSync from "./hooks/useUserSync";
 import HomePage from "./pages/HomePage";
 import CreatePage from "./pages/CreatePage";
 import ProductPage from "./pages/ProductPage";
+import ProfilePage from "./pages/ProfilePage";
+import EditProductPage from "./pages/EditProductPage";
 
 
 function App() {
